@@ -1,0 +1,5 @@
+Para probar los endpoints se ha implementado swagger en la aplicacion backend, por lo que se puede acceder para probarlos.
+
+
+#En mi caso el puerto era el 8080
+http://localhost:8080/swagger-ui/index.html#/
